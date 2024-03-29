@@ -1,3 +1,3 @@
 module.exports = {
-    presets: [['@bebel/preset-env',{targets: {node: 'current'}}]],
+    presets: [['@babel/preset-env',{targets: {node: 'current'}}]],
 };
